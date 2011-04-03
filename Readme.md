@@ -118,7 +118,7 @@ on the command line. Please note that in order to do that you have to switch to 
 
 ## Using Kingdom-Splitter
 
-    kingdom-splitter input.csv"
+    kingdom-splitter input.csv
 
 This will automatically create input\_clean.csv and input\_contaminated.csv in the same directory.
 
