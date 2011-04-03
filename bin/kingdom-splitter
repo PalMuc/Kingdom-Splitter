@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -ws
+#!/usr/bin/env ruby
 
 require 'rubygems'
 require 'csv' #Will use FasterCSV on Ruby 1.8
